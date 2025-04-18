@@ -19,7 +19,7 @@ non_veg_keywords = {
 dairy_keywords = {
     "milk", "cheese", "cream", "butter", "ghee", "paneer", "yogurt", "curd", "custard",
     "sour cream", "whipped cream", "ice cream", "mozzarella", "parmesan", "cheddar",
-    "creamer", "condensed milk", "evaporated milk", "whey", "lactose"
+    "creamer", "condensed milk", "evaporated milk", "whey", "lactose", "icing","pasteurized "
 }
 
 def tagnonveg(description):
