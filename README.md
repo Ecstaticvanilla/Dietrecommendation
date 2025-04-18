@@ -79,10 +79,10 @@ HTML/CSS: Custom styling within Streamlit
 
 
 # Contributors :
-Swayam Kelkar : https://github.com/Ecstaticvanilla
-Rachel Fernandes : https://github.com/Rachelferns
-Nitin Gawde : https://github.com/NitinGawde26
-Mithilesh Deshmukh : https://github.com/blast678
+Swayam Kelkar : https://github.com/Ecstaticvanilla  
+Rachel Fernandes : https://github.com/Rachelferns  
+Nitin Gawde : https://github.com/NitinGawde26  
+Mithilesh Deshmukh : https://github.com/blast678  
 
 # License
 This project is licensed under the MIT License.
