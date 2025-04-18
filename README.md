@@ -22,42 +22,27 @@ Will add in the future
 
 Clone the Repository:  
 
-bash  
-Copy  
-Edit  
 git clone https://github.com/Ecstaticvanilla/Dietrecommendation.git  
 cd Dietrecommendation  
 Create a Virtual Environment:  
 
-bash  
-Copy  
-Edit  
 python -m venv venv  
 source venv/bin/activate  # On Windows: venv\Scripts\activate  
 Install Dependencies:  
 
-bash  
-Copy  
-Edit  
+
 pip install -r requirements.txt  
 Configure API Keys:  
 
 Create a .streamlit/secrets.toml file:  
 
-toml  
-Copy  
-Edit  
 gemini_apikey = "your_gemini_api_key_here"  
-Run the Application:  
 
-bash  
-Copy  
-Edit  
+Run the Application:  
 streamlit run app.py  
-Project Structure  
-graphql  
-Copy  
-Edit  
+
+Project Structure   
+
 Dietrecommendation/
 ├── app.py             # Main Streamlit application  
 ├── bot.py             # Gemini AI integration  
