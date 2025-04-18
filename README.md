@@ -1,4 +1,4 @@
-#AI-Powered Diet Recommendation App
+# AI-Powered Diet Recommendation App
 
 Welcome to the AI-Powered Diet Recommendation App—a personalized nutrition assistant that calculates your Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE) to generate tailored meal plans using Google's Gemini AI.
 
