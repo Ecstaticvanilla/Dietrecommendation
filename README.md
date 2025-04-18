@@ -2,7 +2,8 @@
 
 Welcome to the AI-Powered Diet Recommendation App—a personalized nutrition assistant that calculates your Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE) to generate tailored meal plans using Google's Gemini AI.
 
- -----------------------------------------Features---------------------------------------------------
+# Features 
+
 User Authentication: Secure login system to personalize user experience.
 
 BMR & TDEE Calculator: Computes your daily caloric needs based on personal metrics.
@@ -17,7 +18,8 @@ Demo
 
 Will add in the future
 
--------------------------------------------Installation---------------------------------------------
+# Installation
+
 Clone the Repository:
 
 bash
@@ -65,7 +67,8 @@ Dietrecommendation/
 └── screenshots/
     └── demo.gif       # Application demo
 
------------------------------------------Technologies Used------------------------------------------
+# Technologies Used
+
 Python 3.10+
 
 Streamlit: Web application framework
@@ -81,5 +84,5 @@ Rachel Fernandes : https://github.com/Rachelferns
 Nitin Gawde : https://github.com/NitinGawde26
 Mithilesh Deshmukh : https://github.com/blast678
 
-📄 License
+# License
 This project is licensed under the MIT License.
