@@ -18,7 +18,7 @@ Demo
 
 Will add in the future
 
-#Installation
+# Installation
 
 Clone the Repository:
 
@@ -67,7 +67,7 @@ Dietrecommendation/
 └── screenshots/
     └── demo.gif       # Application demo
 
-#Technologies Used
+# Technologies Used
 
 Python 3.10+
 
@@ -78,11 +78,11 @@ Google Generative AI (Gemini): AI-powered content generation
 HTML/CSS: Custom styling within Streamlit
 
 
-Contributors :
+# Contributors :
 Swayam Kelkar : https://github.com/Ecstaticvanilla
 Rachel Fernandes : https://github.com/Rachelferns
 Nitin Gawde : https://github.com/NitinGawde26
 Mithilesh Deshmukh : https://github.com/blast678
 
-#License
+# License
 This project is licensed under the MIT License.
